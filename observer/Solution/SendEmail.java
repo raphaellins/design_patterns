@@ -1,4 +1,4 @@
-package other.Scenario;
+package observer.Solution;
 
 public class SendEmail implements PostProcessor{
 

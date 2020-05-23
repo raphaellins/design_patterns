@@ -1,4 +1,4 @@
-package other.Solution;
+package observer.Solution;
 
 public interface PostProcessor {
 

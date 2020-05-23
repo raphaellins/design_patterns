@@ -1,4 +1,4 @@
-package other.Scenario;
+package observer.Scenario;
 
 public class FiscalNoteFactory {
 
